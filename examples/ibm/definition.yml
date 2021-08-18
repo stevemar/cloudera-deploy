@@ -1,0 +1,4 @@
+---
+#teardown_everything: True
+#teardown_cluster: 'all'
+#teardown_cms: True
